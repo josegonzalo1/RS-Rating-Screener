@@ -1,0 +1,6 @@
+{
+  "name": "RS Rating Screener & Criteria Analyzer",
+  "description": "Herramienta profesional para evaluar y calcular los criterios de RS Rating (Relative Strength Rating de William O'Neil / CANSLIM y Mark Minervini), línea RS vs SPY y checklist técnico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
